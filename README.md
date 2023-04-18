@@ -3,10 +3,9 @@
 - 👀 I’m interested in learning HTML5 and CSS.
       Recently build a passion for CyberSecurity as well.
       
-- 🌱 I’m currently pursuing my Bachelor's In Technology on Information Technology/IT.
+- 🌱 Pursuing Bachelor's Degree in Information Technology.
 
-- 💞️ I’m looking to collaborate on Web Designing and Python Programming.
+- 💞️ I’m looking to collaborate on Full Stack Projects,
       As well as on CyberSecurity related Projects.
-      
-- 📫 How to reach me
+     
 
