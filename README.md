@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @Morningstar616
+- 👋 Hey, I’m Ashwath John.
 
-- 👀 I’m interested in learning HTML5 and CSS.
-      Recently build a passion for CyberSecurity as well.
+-  I practice as a Front-End developer with UI/UX Design Skills.
+-  I'm Based in Kerala, India.
       
-- 🌱 Pursuing Bachelor's Degree in Information Technology.
+-  STATUS
+       
+       * Student at Cochin University of Science & Technology a.k.a CUSAT
+       * Available to work and collabrate on Full Stack as well as Front-End Projects.
+      
+   
+           
+- CURRENTLY FOCUSING ON 
+      
+      * ReactJS and PHP.
+      * CyberSecurity
 
-- 💞️ I’m looking to collaborate on Full Stack Projects,
-      As well as on CyberSecurity related Projects.
      
 
