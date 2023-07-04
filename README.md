@@ -12,7 +12,7 @@
            
 - CURRENTLY FOCUSING ON 
       
-      * ReactJS and PHP.
+      * Data Science and Machine Learning.
       * CyberSecurity
 
      
