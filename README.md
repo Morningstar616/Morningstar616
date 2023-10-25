@@ -13,7 +13,7 @@
 - CURRENTLY FOCUSING ON 
       
       * Data Science and Machine Learning.
-      * CyberSecurity
+      * Java
 
      
 
