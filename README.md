@@ -4,10 +4,7 @@
 
 - 🤝 Interested to collaborate on *Web Development Projects | UI/UX Designs | AI Projects*
 
-- 📫 How to reach me *ashwathjohn2002@gmail.com*
-
-Front-End Development | UI/UX | Machine Learning (LLM and RAG )<br>Web Development Projects | UI/UX Designs | AI Projects<br>DevOps and Cloud Practices<br>Cloud Engineer | Devops<br>
-
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ashwathjohn2002@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwath_john) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwath-john) 
