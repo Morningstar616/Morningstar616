@@ -1,4 +1,11 @@
 # 💫 About Me:
+
+- 🔭 I’m currently working on *Front-End Development | UI/UX | Machine Learning (LLM and RAG )*
+
+- 🤝 Interested to collaborate on *Web Development Projects | UI/UX Designs | AI Projects*
+
+- 📫 How to reach me *ashwathjohn2002@gmail.com*
+
 Front-End Development | UI/UX | Machine Learning (LLM and RAG )<br>Web Development Projects | UI/UX Designs | AI Projects<br>DevOps and Cloud Practices<br>Cloud Engineer | Devops<br>
 
 
